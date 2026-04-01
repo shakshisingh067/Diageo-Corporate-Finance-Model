@@ -1,6 +1,3 @@
-# Diageo-Corporate-Finance-Model
-Capital Budgeting and Valuation Model for Diageo Investment Project
-
 # Diageo Corporate Finance Model
 
 This project presents an advanced corporate finance Excel model prepared for a potential Diageo-related case project.
